@@ -1,0 +1,43 @@
+from wallet : [26,108,118,152,183,71,225,76,190,111,195,85,170,42,181,52,89,101,127,203,11,183,151,160,7,212,200,215,245,232,136,231,33,105,81,175,205,140,132,137,245,29,217,217,65,207,126,139,136,44,49,252,190,194,16,150,75,216,67,225,206,109,0,94]
+
+pubkey :3FRbjEgU8TWaoyn2HS2UTwt74SieSdMhmKDYkERQzLxd
+
+to wallet: [64,141,150,224,132,159,191,14,225,53,48,242,3,237,107,90,182,149,163,120,49,77,254,224,33,27,38,170,156,226,157,6,64,28,93,226,205,81,12,13,1,135,76,247,233,110,26,29,249,225,100,4,61,20,220,121,229,186,59,103,0,36,75,0]
+
+pubkey: 5KGBTgtWB9zwNU2yxciB76nts2Lwfn6YmUraF86vQL7q
+
+
+mint tx: 869AYMP3hToN6dSFpXxoGdWC3onnnQDBacDds938W2kfJ4j4GiinNZ18cfBhmLmEwULBsciqjs6HwLUs5BZuYwJ
+transfer tx: 2Sue3kJkLiJt27U7bihiMfniw8375Ct8VqDrBHF8Rn1ZhfoPq6EU3tXxLcLTiwMqXx7ywvHUh5WaQCGu7ruRDHCf
+
+F9ETHpqgGVwKtyGEzmwpnx2Bcg8ZjtPy9pcG5RCQQ1SA
+
+{
+  "tokenStandard": "nft",
+  "number": 10,
+  "symbol": "NB",
+  "sellerFeeBasisPoints": 500,
+  "isMutable": true,
+  "isSequential": false,
+  "creators": [
+    {
+      "address": "3FRbjEgU8TWaoyn2HS2UTwt74SieSdMhmKDYkERQzLxd",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "ruleSet": null,
+  "awsConfig": null,
+  "splTokenAccount":"F9ETHpqgGVwKtyGEzmwpnx2Bcg8ZjtPy9pcG5RCQQ1SA",
+  "splToken": "5KGBTgtWB9zwNU2yxciB76nts2Lwfn6YmUraF86vQL7q",
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": null,
+  "maxEditionSupply": null
+}
+
+
+
+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
